@@ -1,4 +1,4 @@
-# SixArm.com » Fonts 
+# Fonts 
 
 These are a couple of fonts we use on our developer systems.
 
