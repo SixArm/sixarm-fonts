@@ -1,10 +1,17 @@
 # Fonts
 
 
-## Font families: Bitstream Vera and Adobe Source Pro
+## Font families
 
-This script repository has two font families,
-and you can use these, or choose your own fonts.
+This script repository has multiple font families.
+You can use these, or choose your own fonts.
+
+* Bitstream Vera 
+
+* Liberation
+
+* Source Pro
+
 
 
 ### Bitstream Vera 
@@ -15,18 +22,29 @@ Bitstream Vera fonts are widely available, and use a fair license for this work.
 
   * sans font: Bitstream Vera Sans
 
-  * code font: Bitstream Vera Sans Mono
+  * mono font: Bitstream Vera Sans Mono
 
 
-### Adobe Source Pro
+### Liberation
 
-Adobe Source Pro fonts are widely available, and use a fair license for this work.
+Liberation fonts are widely available, and use an open source license.
+
+  * main font: Liberation Serif
+
+  * sans font: Liberation Sans
+
+  * mono font: Liberation Mono
+
+
+### Source Pro
+
+Source Pro fonts are widely available, and use a fair license for this work.
 
   * main font: Source Serif Pro
 
   * sans font: Source Sans Pro
 
-  * code font: Source Code Pro
+  * mono font: Source Code Pro
 
 
 ## Install a font
@@ -63,6 +81,10 @@ Commands we try:
 brew install --cask font-bitstream-vera-serif
 brew install --cask font-bitstream-vera-sans
 brew install --cask font-bitstream-vera-sans-mono
+
+brew install --cask font-liberation-serif
+brew install --cask font-liberation-sans
+brew install --cask font-liberation-mono
 
 brew install --cask font-source-serif-pro
 brew install --cask font-source-sans-pro
